@@ -1,0 +1,18 @@
+# Ignore Python virtual environment directory
+.venv/
+
+# Common Python ignores
+venv/
+env/
+ENV/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
